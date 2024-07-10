@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png"><img src="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png" alt="CRM Hubspot" width="80"></a>
-  <a href="https://github.com/gabrielpfs/integration_artificial_intelligente_gemini/assets/88781022/93b18029-1707-4f26-b51b-6b7ca0c946e9"><img src="https://github.com/gabrielpfs/integration_artificial_intelligente_gemini/assets/88781022/93b18029-1707-4f26-b51b-6b7ca0c946e9" alt="CRM Hubspot" width="80"></a>
+  <a href="https://github.com/WealthInsight/integration_artificial_intelligente_gemini/assets/88781022/a4a52915-bcd2-4a8f-a19c-7e79b1040ee7"><img src="https://github.com/WealthInsight/integration_artificial_intelligente_gemini/assets/88781022/a4a52915-bcd2-4a8f-a19c-7e79b1040ee7" alt="gemini" width="70"></a>
   <br>
   Integration Artificial Intelligence Gemini
   <br>
